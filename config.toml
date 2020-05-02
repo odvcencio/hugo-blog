@@ -1,0 +1,22 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Draco's World"
+theme = "ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[params]
+  favicon = ""
+  description = "A blog site for a dragon nerd boy"
+  twitter = "https://twitter.com/dolphins_oscar"
+  github = "https://github.com/odvcencio"
+  linkedin = "https://www.linkedin.com/in/oscar-v-72364b154/"
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-purple"
+  recent_posts_number = 2
+  show_reading_time = true

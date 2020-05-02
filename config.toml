@@ -16,6 +16,7 @@ enableRobotsTXT = true
   twitter = "https://twitter.com/dolphins_oscar"
   github = "https://github.com/odvcencio"
   linkedin = "https://www.linkedin.com/in/oscar-v-72364b154/"
+  keybase = "https://keybase.io/draco_skysong/sigs/j57opXKU0KNDNLj-roY4HFfbipycpXOTy5Up"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-purple"
   recent_posts_number = 2
